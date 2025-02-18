@@ -1,3 +1,35 @@
+## [1.39.0](https://github.com/ScrapeGraphAI/Scrapegraph-ai/compare/v1.38.1...v1.39.0) (2025-02-17)
+
+
+### Features
+
+* add the new handling exception ([5c0bc46](https://github.com/ScrapeGraphAI/Scrapegraph-ai/commit/5c0bc46c6322ea07efa31d95819d7da47462f981))
+
+
+### CI
+
+* **release:** 1.39.0-beta.1 [skip ci] ([9be7dcd](https://github.com/ScrapeGraphAI/Scrapegraph-ai/commit/9be7dcd8d1f5b64e6a6c29c931f0195e04bb4f23))
+
+## [1.39.0-beta.1](https://github.com/ScrapeGraphAI/Scrapegraph-ai/compare/v1.38.1-beta.1...v1.39.0-beta.1) (2025-02-17)
+
+
+### Features
+
+* add the new handling exception ([5c0bc46](https://github.com/ScrapeGraphAI/Scrapegraph-ai/commit/5c0bc46c6322ea07efa31d95819d7da47462f981))
+
+
+## [1.38.1-beta.1](https://github.com/ScrapeGraphAI/Scrapegraph-ai/compare/v1.38.0...v1.38.1-beta.1) (2025-02-13)
+
+
+### Bug Fixes
+
+* filter links ([04b9197](https://github.com/ScrapeGraphAI/Scrapegraph-ai/commit/04b91972e88b69b722454d54c8635dfb49b38b44))
+
+
+### Test
+
+* Add coverage improvement test for tests/test_scrape_do.py ([4ce6d1b](https://github.com/ScrapeGraphAI/Scrapegraph-ai/commit/4ce6d1b94306d0ae94a74748726468a5132b7969))
+
 ## [1.38.0](https://github.com/ScrapeGraphAI/Scrapegraph-ai/compare/v1.37.1...v1.38.0) (2025-02-09)
 
 
