@@ -119,6 +119,20 @@ Fireworks Models
 - Llama 3.1 Series (131,072 tokens)
 - Mixtral MoE Series (65,536 tokens)
 
+CLōD Models
+-----------
+- Open Mistral 7B (32,000 tokens)
+- Mixtral 8x7B (32,000 tokens)
+- Mixtral 8x22B (64,000 tokens)
+- Llama 3.1 Series (128,000 tokens)
+- Llama 3.3 Series (128,000 tokens)
+- Deepseek Series (4,096-131,072 tokens)
+- Qwen Series (32,000-132,072 tokens)
+- Grok Series (128,000 tokens)
+- GPT-4 Series (128,000 tokens)
+- Claude 3 Series (200,000 tokens)
+- Gemini Series (128,000-1,000,000 tokens)
+
 For a complete and up-to-date list of supported models and their token limits, please refer to the API documentation.
 
 Understanding token limits is crucial for optimizing your scraping tasks. Larger token limits allow for processing more text in a single API call, which can be beneficial for scraping lengthy web pages or documents.

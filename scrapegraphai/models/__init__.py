@@ -2,6 +2,7 @@
 This module contains the model definitions used in the ScrapeGraphAI application.
 """
 
+from .clod import CLoD
 from .deepseek import DeepSeek
 from .oneapi import OneApi
 from .openai_itt import OpenAIImageToText
@@ -12,4 +13,5 @@ __all__ = [
     "OneApi",
     "OpenAIImageToText",
     "OpenAITextToSpeech",
+    "CLoD",
 ]
